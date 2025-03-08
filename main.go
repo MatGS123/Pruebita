@@ -1,7 +1,7 @@
-echo 'package main
+package main
 
 import "fmt"
 
 func main() {
-    fmt.Println("Son unos cambios!")
-}' > main.go
+	fmt.Println("Son unos cambios!")
+}
